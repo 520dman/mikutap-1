@@ -1,3 +1,6 @@
+
+完成页面
+
 # mikutap
 A Mainland China friendly and independent version extracted from https://aidn.jp/mikutap  
    
